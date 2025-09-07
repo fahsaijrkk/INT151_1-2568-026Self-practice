@@ -1,0 +1,8 @@
+//1
+ใช้ map แปลงอาร์เรย์ทุกสมาชิก → ชื่อเต็ม (firstname + lastname) และแปลงเป็นตัวพิมพ์ใหญ่
+// 2
+ใช้ forEach ตรวจสอบ lastname ถ้ามี "jai" → เก็บ อ็อบเจ็กต์นั้น ใน newwords
+// 3
+สร้างอาร์เรย์ว่าง newwords2 = [] จากนั้นใช้ forEach วนทุกอ็อบเจ็กต์ใน employees ตรวจสอบเงื่อนไขด้วยว่ามีคำว่าใจไหม emp.lastname.includes("jai")ถ้ามี → เอา firstname + " " + lastname แปลงเป็น uppercase แล้ว push ลง newwords2
+//4
+ใช้ reduce บวกราคาสินค้าแต่ละชิ้น (price * amount) แล้วคำนวนvatต่อ

@@ -1,0 +1,10 @@
+//1 
+ใช้ filter เลือกนักเรียนที่ score ≥ 70 → Alice, Bob, Eve map ดึงเอาเฉพาะ name
+//2
+includes ตรวจสอบว่ามี substring 'go' อยู่ในสตริง 'mangoteen'
+//3
+includes ของ อาร์เรย์ ตรวจสอบว่ามี element ที่ตรงตัว 'go' มั้ย
+//4
+sort น้อยไปมาก (a,b)คือตัวเลขในอาเรย์ที่หยิบมาเป็นคู่ๆ
+//5
+sort เรียงตามชื่อแบบไม่สนตัวพิมพ์ (toLowerCase())
